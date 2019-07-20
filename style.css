@@ -1,5 +1,5 @@
 body {
-    background: #0D5BB3;
+    background: rgb(6, 83, 172);
     font-family: 'Raleway', sans-serif;
 }
 
@@ -28,4 +28,12 @@ body {
 
 img {
     margin-top: 40px;
+}
+
+.btn-group-lg>.btn, .btn-lg {
+    font-size: 1.5rem;
+}
+
+.bg-color {
+    background-color: rgb(13, 91, 179);
 }
