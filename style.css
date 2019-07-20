@@ -1,0 +1,31 @@
+body {
+    background: #0D5BB3;
+    font-family: 'Raleway', sans-serif;
+}
+
+#mainNavBar {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+#mainNavBar .nav-link {
+    color: white;
+}
+
+#mainTitle h1 {
+    font-size: 3rem;
+    font-weight: 100;
+}
+
+#mainTitle h2 {
+    font-size: 2.5rem;
+    font-weight: 100;
+}
+
+#mainTitle span {
+    color: #0000B2;
+}
+
+img {
+    margin-top: 40px;
+}
