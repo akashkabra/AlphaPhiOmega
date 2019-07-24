@@ -5,3 +5,16 @@ body {
 #policy {
     padding-bottom: 50px;
 }
+
+h3 {
+    padding-left: 40px;
+}
+
+h4 {
+    padding-left: 80px;
+}
+
+h2 {
+    text-decoration: underline;
+    padding-top: 20px;
+}
