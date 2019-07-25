@@ -4,7 +4,10 @@ body {
     padding-top: 80px;
 }
 
-
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
 .navbar-brand {
     font-size: 1.5rem;
     color: black;
