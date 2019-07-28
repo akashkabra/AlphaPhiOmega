@@ -18,3 +18,7 @@ h2 {
     text-decoration: underline;
     padding-top: 20px;
 }
+
+span {
+    font-weight: bold;
+}
