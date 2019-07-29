@@ -1,8 +1,9 @@
 body {
     padding-top: 120px;
+    padding-bottom: 50px;
 }
 
-#policy {
+.policy {
     padding-bottom: 50px;
 }
 
@@ -23,7 +24,11 @@ span {
     font-weight: bold;
 }
 
-#titles {
+.titles {
     border-bottom: 1px solid black;
     display: inline-block;
+}
+
+.padding {
+    padding-bottom: 25px;
 }
